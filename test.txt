@@ -1,4 +1,4 @@
-hello git!i
-あああああああ
+hello git!
+かわいい犬
 test git
 Hello world
